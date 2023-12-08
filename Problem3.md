@@ -9,7 +9,7 @@ class Node:
 
 Consider an implementation of a linked list, where each node is created using the given class Node. Suppose it has a head variable that contains the reference to the first node of the linked list.
 
-![Screenshot from 2023-12-08 12-15-43](../PDSA_OPPE_Sol/Screenshot from 2023-12-08 12-15-43.png)
+![](Problem3.assets/Screenshot from 2023-12-08 12-15-43.png)
 
 You are given two non-empty linked lists with n and m nodes, where these nodes are sorted in ascending order of their value. Your task is to merge these two sorted linked lists into one sorted linked list.
 
