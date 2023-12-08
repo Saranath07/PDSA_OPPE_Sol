@@ -6,7 +6,7 @@
 In Domino Solitaire, you have a grid with two rows and many columns. Each square in the grid contains an integer. You are given a supply of rectangular 2 x 1 tiles, each of which exactly covers two adjacent squares of the grid. You have to place tiles to cover all the squares in the grid such that each tile covers two squares and no pair of tiles overlap. The score for a tile is the difference between the bigger and the smaller number that are covered by the tile. The aim of the game is to maximize the sum of the scores of all the tiles. Here is an example of a grid, along with two different tilings and their scores.
 
 
-![image-20231208100233150](/home/saranath/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20231208100233150.png)
+![](../PDSA_OPPE_Sol/Screenshot from 2023-12-08 10-02-27.png)
 
 
 

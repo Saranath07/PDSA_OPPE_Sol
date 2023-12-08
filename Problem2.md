@@ -11,9 +11,7 @@ class Node:
 
 
 
-
-
-![image-20231208094039188](/home/saranath/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20231208094039188.png)
+![](../PDSA_OPPE_Sol/Screenshot from 2023-12-08 09-40-19.png)
 
 Consider an implementation of a linked list, where each node is created using the given class Node. Suppose it has a head variable that contains the reference to the first node of the linked list.
 
